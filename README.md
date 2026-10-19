@@ -154,7 +154,6 @@ standard-support-only Kubernetes versions, and a one-click teardown.
 - [ ] Worker service consuming SQS
 
 ## Screenshots
-_Add: pipeline run, Grafana RED dashboard, HPA scaling under load._
+
 
 ## Lessons learned / what broke
-_Keep a running log here. Interviewers love this section._
